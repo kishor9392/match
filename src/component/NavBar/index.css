@@ -1,0 +1,41 @@
+.bg {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.img {
+  height: 50px;
+  width: 150px;
+}
+
+.img1 {
+  height: 30px;
+  width: 30px;
+  margin-left: 40px;
+  margin-right: 5px;
+}
+
+.p {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.bg1 {
+  display: flex;
+  align-items: center;
+}
+
+.p1 {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
